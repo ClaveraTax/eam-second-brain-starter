@@ -8,10 +8,15 @@ updated: 2026-11-04
 
 Giving the model the right information, in the right format, at the right time.
 
-- The successor to prompt engineering once you build repeatable work.
-- Folders and router files are context engineering you can see.
+- A prompt is one question. Context engineering is the setup that keeps feeding the model what it needs, and folders plus router files are the low-tech version of it.
+
+> [!TIP]
+> **Try it**
+>
+> Next time you paste a long explanation into a chat, save it as a note instead.
 
 ## Related
+
 - [Router File](../02-concepts/Router%20File.md)
 - [Skills](../02-concepts/Skills.md)
 - [Agent Teams](../02-concepts/Agent%20Teams.md)

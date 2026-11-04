@@ -6,12 +6,18 @@ updated: 2026-11-04
 
 # Skills
 
-A reusable instruction file for a job you do more than twice.
+An instruction file for a job you do more than twice.
 
-- Lives in a file, not in your head or a chat history.
-- Here: `.claude/skills/`, readable by any assistant.
+- It lives in a file, so it doesn't disappear with the chat history.
+- This repo keeps them in `.claude/skills/`. Claude Code finds them on its own; with other assistants you paste them in.
+
+> [!TIP]
+> **Try it**
+>
+> Run the `capture-a-source` skill on the next article you read.
 
 ## Related
+
 - [Context Engineering](../02-concepts/Context%20Engineering.md)
 - [Router File](../02-concepts/Router%20File.md)
 - [Self-Hosted Agents](../02-concepts/Self-Hosted%20Agents.md)

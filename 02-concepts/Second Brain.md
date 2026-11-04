@@ -6,12 +6,17 @@ updated: 2026-11-04
 
 # Second Brain
 
-A folder of plain notes that both you and your AI assistant can read and write.
+A folder of plain notes that you and your assistant both read and write.
 
-- Not a notes app: the structure is what makes it useful.
-- Keep the signal: short notes, not piles of transcripts.
+- The structure is the useful part. Without one, a pile of notes turns into a graveyard.
+
+> [!TIP]
+> **Try it**
+>
+> Drop one thing into `00-inbox/` today. Sort it on Friday.
 
 ## Related
+
 - [Router File](../02-concepts/Router%20File.md)
 - [Stages and Stopping Points](../02-concepts/Stages%20and%20Stopping%20Points.md)
 - [Maps of Content](../02-concepts/Maps%20of%20Content.md)

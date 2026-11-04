@@ -1,0 +1,10 @@
+{
+  // Notes are prose and are not hard-wrapped.
+  "MD013": false,
+  // The YAML `title:` is metadata, not a second heading.
+  "MD025": { "front_matter_title": "" },
+  // Two callouts in a row need a blank line between them, or they merge.
+  "MD028": false,
+  // Video titles sometimes end in "!" or "?".
+  "MD026": { "punctuation": ".,;:" }
+}

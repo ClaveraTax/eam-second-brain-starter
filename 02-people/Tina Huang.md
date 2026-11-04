@@ -7,16 +7,23 @@ updated: 2026-11-04
 
 # Tina Huang
 
-Turns long AI courses and new tools into short, clear explainers.
+Boils long AI courses down to 20-minute explainers. Good when you need the basics fast.
+
+> [!TIP]
+> **Start with**
+>
+> [AI Agents Fundamentals In 21 Minutes](https://www.youtube.com/watch?v=qU3fmidNbJE)
 
 ## How they think
-- Fundamentals before tools.
-- Reusable prompt shapes: role, task, output, constraints.
-- Good for getting a team to a shared vocabulary fast.
+
+- Fundamentals first, tools second.
+- Gives you prompt shapes you can paste straight into your assistant.
 
 ## Sources
-- [Watch or read](https://www.youtube.com/watch?v=jLuwLJBQkIs) · note: [Context Engineering Clearly Explained](../01-sources/Context%20Engineering%20Clearly%20Explained.md)
-- [Watch or read](https://www.youtube.com/watch?v=qU3fmidNbJE) · note: [AI Agents Fundamentals In 21 Minutes](../01-sources/AI%20Agents%20Fundamentals%20In%2021%20Minutes.md)
+
+- [Context Engineering Clearly Explained](../01-sources/Context%20Engineering%20Clearly%20Explained.md) ([watch](https://www.youtube.com/watch?v=jLuwLJBQkIs))
+- [AI Agents Fundamentals In 21 Minutes](../01-sources/AI%20Agents%20Fundamentals%20In%2021%20Minutes.md) ([watch](https://www.youtube.com/watch?v=qU3fmidNbJE))
 
 ## Concepts
+
 - [Context Engineering](../02-concepts/Context%20Engineering.md)

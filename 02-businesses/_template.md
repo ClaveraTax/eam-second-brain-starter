@@ -5,15 +5,23 @@ link:
 updated: YYYY-MM-DD
 ---
 
-# <Name>
+# Name
 
 What they do, in one line.
 
-## How they think
--
+> [!TIP]
+> **Start with**
+>
+> [Their best video or article](https://example.com)
+
+## Their angle
+
+- One or two lines on how they see things
 
 ## Sources
-- [Watch or read](https://…) · note: [Title](../01-sources/Title.md)
+
+- [Title](../01-sources/Title.md) ([watch](https://example.com))
 
 ## Concepts
+
 - [Concept](../02-concepts/Concept.md)

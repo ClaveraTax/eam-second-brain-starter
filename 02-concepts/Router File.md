@@ -6,12 +6,18 @@ updated: 2026-11-04
 
 # Router File
 
-A short file (here `CONTEXT.md`) that tells the assistant which folder holds what and where to start.
+A short file that tells the assistant which folder holds what. In this repo it's `CONTEXT.md`.
 
-- Works like a library's card catalog: summaries, not the books.
-- Lets the assistant load only what a task needs.
+- Think card catalog: summaries and pointers, not the books themselves.
+- The assistant loads only the folder a task needs, so answers stay focused and cheap.
+
+> [!TIP]
+> **Try it**
+>
+> Open `CONTEXT.md` and add a line for a folder you wish you had.
 
 ## Related
+
 - [Second Brain](../02-concepts/Second%20Brain.md)
 - [Context Engineering](../02-concepts/Context%20Engineering.md)
 - [Skills](../02-concepts/Skills.md)

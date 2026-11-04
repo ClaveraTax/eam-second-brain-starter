@@ -3,12 +3,15 @@ name: weekly-review
 description: Run the user's 15-minute weekly review of 00-inbox/ and propose where each item goes. Use on Fridays or when the user asks for a review.
 ---
 
-> Not using Claude Code? Paste this file into your assistant, then your material.
-
 # Weekly review
 
-Propose only; act after the user says yes.
+> [!TIP]
+> **Not using Claude Code?**
+>
+> Paste this file into your assistant, then paste your material.
 
-1. For each item in `00-inbox/`, one line: make a source note, add to a person, business or concept note, or delete.
-2. Name one concept that appears in three or more notes but has no note in `02-concepts/` yet.
-3. Name one thing the user did twice this week that could become a new skill.
+Suggest, then wait. Act only on what the user approves.
+
+1. Give each item in `00-inbox/` one line: make a source note, add it to a person, business or concept note, or delete it.
+2. Point out one idea that turns up in several notes but has no note in `02-concepts/` yet.
+3. If the user did something twice this week that could be a skill, say what it is.

@@ -8,17 +8,30 @@ date: 2026-09-12
 
 # Hermes Agent documentation
 
-Documentation for Hermes Agent, a self-hosted agent that talks to you through chat apps and learns skills.
+Hermes Agent runs on your own server, talks to you through chat apps like Telegram, and learns new skills as it goes.
+
+> [!NOTE]
+> **Source**
+>
+> [Read the docs](https://hermes-agent.nousresearch.com/docs/)
 
 ## Key points
-- Skills are plain files; the agent can write new ones.
-- Reads the same project files as other assistants (AGENTS.md, CLAUDE.md).
-- Phase 2 of the ladder: it comes to you.
 
-## My take
-- What would this mean for my work?
+- Skills are plain files. The agent can write new ones from what it learns.
+- It reads the same AGENTS.md and CLAUDE.md files as other assistants, so this repo works with it unchanged.
+
+> [!WARNING]
+> **Read with care**
+>
+> You need a machine you're allowed to install software on.
+
+> [!TIP]
+> **Your take**
+>
+> What would you want a bot to send you every morning?
 
 ## Links
+
 - Author: [Nous Research](../02-businesses/Nous%20Research.md)
 - Concept: [Skills](../02-concepts/Skills.md)
 - Concept: [Self-Hosted Agents](../02-concepts/Self-Hosted%20Agents.md)

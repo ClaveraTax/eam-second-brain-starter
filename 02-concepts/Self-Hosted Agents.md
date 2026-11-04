@@ -6,12 +6,17 @@ updated: 2026-11-04
 
 # Self-Hosted Agents
 
-Agents that run on a machine or server you control rather than in a vendor's app.
+Agents that run on a machine you control instead of inside a vendor's app.
 
-- You own the memory, skills and data.
-- Usually needs install rights, so start on a personal machine.
+- You keep the memory, the skills and the data. You also keep the maintenance.
+
+> [!CAUTION]
+> **Check before you install**
+>
+> Most corporate laptops block this, and for good reason. Ask IT first, or try it on a personal machine.
 
 ## Related
+
 - [Skills](../02-concepts/Skills.md)
 - [Agent Teams](../02-concepts/Agent%20Teams.md)
 - [Fireship](../02-businesses/Fireship.md)

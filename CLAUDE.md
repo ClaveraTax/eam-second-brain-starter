@@ -4,14 +4,14 @@ type: instructions
 
 # CLAUDE.md
 
-This is a Claude Code project: a second brain in plain markdown.
+This is a Claude Code project: a second brain kept in plain markdown.
 
 @AGENTS.md
 
 ## Skills
 
-Project skills live in `.claude/skills/`. Claude Code picks them up automatically:
+Claude Code picks up the skills in `.claude/skills/` on its own:
 
-- `capture-a-source`: a video, article or notes → `01-sources/`
-- `write-a-person-note`: a person → `02-people/`, a company → `02-businesses/`
-- `weekly-review`: sort `00-inbox/` and suggest missing concepts and skills
+- `capture-a-source` turns a video, article or notes into a note in `01-sources/`.
+- `write-a-person-note` writes a note on a person (`02-people/`) or a company (`02-businesses/`).
+- `weekly-review` sorts `00-inbox/` and points out missing concepts and skills.

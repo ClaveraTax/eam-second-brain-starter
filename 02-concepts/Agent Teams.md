@@ -6,12 +6,17 @@ updated: 2026-11-04
 
 # Agent Teams
 
-Several AI workers, each with a role and its own context, coordinated toward one goal.
+Several AI workers, each with its own role and context, aimed at one goal.
 
-- Often one model copying itself to work in parallel.
-- Faster, not cheaper: parallel work costs more tokens.
+- Under the hood it's usually one model copying itself to work in parallel. That's faster, and you pay tokens for every copy.
+
+> [!WARNING]
+> **Don't start here**
+>
+> Get phase 1 (folders and one assistant) working first. Agent teams multiply whatever mess is already there.
 
 ## Related
+
 - [Stages and Stopping Points](../02-concepts/Stages%20and%20Stopping%20Points.md)
 - [Skills](../02-concepts/Skills.md)
 - [Self-Hosted Agents](../02-concepts/Self-Hosted%20Agents.md)

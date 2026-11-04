@@ -6,12 +6,17 @@ updated: 2026-11-04
 
 # Stages and Stopping Points
 
-Numbered stages (inbox, notes, briefs) with a human check between each.
+Numbered folders for each step, with a human check before work moves on.
 
-- The folder structure decides where the AI pauses.
-- Augment first; automate a stage only once you trust it.
+- The folder structure decides where the AI waits for you. Automate a stage once you trust it, not before.
+
+> [!IMPORTANT]
+> **House rule**
+>
+> The assistant drafts. You approve before anything is saved, moved or deleted.
 
 ## Related
+
 - [Second Brain](../02-concepts/Second%20Brain.md)
 - [Agent Teams](../02-concepts/Agent%20Teams.md)
 - [Jake Van Clief](../02-people/Jake%20Van%20Clief.md)

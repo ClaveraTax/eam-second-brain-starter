@@ -8,17 +8,26 @@ date: 2025-08-01
 
 # Context Engineering Clearly Explained
 
-Give the model the right information, in the right format, at the right time.
+Context engineering means giving the model the right information, in the right format, at the right time.
+
+> [!NOTE]
+> **Source**
+>
+> [Watch on YouTube](https://www.youtube.com/watch?v=jLuwLJBQkIs)
 
 ## Key points
-- An agent has parts: model, tools, memory, guardrails, orchestration.
-- A reusable prompt shape: role, task, output format, constraints.
-- Four moves for context: write it down, select it, compress it, isolate it.
 
-## My take
-- What would this mean for my work?
+- A prompt is one question. Context engineering is the setup that keeps feeding the model what it needs.
+- Her prompt shape is worth copying: role, task, output format, constraints.
+- She points to LangChain's four moves for context: write it, select it, compress it, isolate it.
+
+> [!TIP]
+> **Your take**
+>
+> What do you keep re-explaining to your assistant that should live in a note?
 
 ## Links
+
 - Author: [Tina Huang](../02-people/Tina%20Huang.md)
 - Concept: [Context Engineering](../02-concepts/Context%20Engineering.md)
 - Concept: [Skills](../02-concepts/Skills.md)

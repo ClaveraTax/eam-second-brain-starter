@@ -7,16 +7,21 @@ updated: 2026-11-04
 
 # Nick Milo
 
-Teaches linked note-taking in Obsidian (Linking Your Thinking).
+Teaches linked note-taking in Obsidian through Linking Your Thinking. He popularised Maps of Content.
 
 ## How they think
-- Link notes instead of only filing them.
-- Maps of Content: hub notes that gather links on a topic.
-- Open this same folder in Obsidian to see the connections.
+
+- Link notes while you write them; don't just file them away.
+- Hub notes beat deep folder trees once a topic grows.
 
 ## Sources
-- None yet. Capture one of their videos as your first exercise.
+
+> [!NOTE]
+> **Nothing captured yet**
+>
+> Capture one of their videos with the `capture-a-source` skill. It makes a good first exercise.
 
 ## Concepts
+
 - [Maps of Content](../02-concepts/Maps%20of%20Content.md)
 - [Second Brain](../02-concepts/Second%20Brain.md)
