@@ -18,4 +18,8 @@ A well-organised folder already is the instruction set for an AI assistant.
 ## My take
 - What would this mean for my work?
 
-Author: `02-people/Jake Van Clief.md`
+## Links
+- Author: [Jake Van Clief](../02-people/Jake%20Van%20Clief.md)
+- Concept: [Router File](../02-concepts/Router%20File.md)
+- Concept: [Stages and Stopping Points](../02-concepts/Stages%20and%20Stopping%20Points.md)
+- Concept: [Agent Teams](../02-concepts/Agent%20Teams.md)

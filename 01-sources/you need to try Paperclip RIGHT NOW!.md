@@ -18,4 +18,7 @@ Paperclip runs a team of AI agents like a company: roles, tasks, budgets and app
 ## My take
 - What would this mean for my work?
 
-Author: `02-people/NetworkChuck.md`
+## Links
+- Author: [NetworkChuck](../02-people/NetworkChuck.md)
+- Concept: [Agent Teams](../02-concepts/Agent%20Teams.md)
+- Concept: [Stages and Stopping Points](../02-concepts/Stages%20and%20Stopping%20Points.md)

@@ -4,4 +4,4 @@ type: router
 
 # 02-people
 
-One note per person you learn from: what they teach and how they think. Copy `_template.md`, or use `skills/write-a-person-note.md`. List their sources with a link to watch or read.
+One note per person you learn from: what they teach and how they think. Companies go in `02-businesses/`. Copy `_template.md`, or use the `write-a-person-note` skill.

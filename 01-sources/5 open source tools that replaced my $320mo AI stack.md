@@ -18,4 +18,6 @@ Five open-source tools that can replace paid AI subscriptions on your own server
 ## My take
 - What would this mean for my work?
 
-Author: `02-people/Fireship.md`
+## Links
+- Author: [Fireship](../02-businesses/Fireship.md)
+- Concept: [Self-Hosted Agents](../02-concepts/Self-Hosted%20Agents.md)

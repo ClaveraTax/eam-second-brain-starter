@@ -10,9 +10,10 @@ updated: YYYY-MM-DD
 What they teach, in one line.
 
 ## How they think
-- 
-- 
-- 
+-
 
 ## Sources
-- `01-sources/<note>.md`
+- [Watch or read](https://…) · note: [Title](../01-sources/Title.md)
+
+## Concepts
+- [Concept](../02-concepts/Concept.md)

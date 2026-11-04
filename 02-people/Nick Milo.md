@@ -16,3 +16,7 @@ Teaches linked note-taking in Obsidian (Linking Your Thinking).
 
 ## Sources
 - None yet. Capture one of their videos as your first exercise.
+
+## Concepts
+- [Maps of Content](../02-concepts/Maps%20of%20Content.md)
+- [Second Brain](../02-concepts/Second%20Brain.md)

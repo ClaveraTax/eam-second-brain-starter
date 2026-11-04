@@ -11,11 +11,11 @@ date: YYYY-MM-DD
 What it says, in one line.
 
 ## Key points
-- 
-- 
-- 
+-
 
 ## My take
-- 
+-
 
-Author: `02-people/<Name>.md`
+## Links
+- Author: [Name](../02-people/Name.md)
+- Concept: [Concept](../02-concepts/Concept.md)

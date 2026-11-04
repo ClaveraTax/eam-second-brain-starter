@@ -18,4 +18,7 @@ You don't need hundreds of agents; you need a good library and one good libraria
 ## My take
 - What would this mean for my work?
 
-Author: `02-people/Jake Van Clief.md`
+## Links
+- Author: [Jake Van Clief](../02-people/Jake%20Van%20Clief.md)
+- Concept: [Second Brain](../02-concepts/Second%20Brain.md)
+- Concept: [Router File](../02-concepts/Router%20File.md)

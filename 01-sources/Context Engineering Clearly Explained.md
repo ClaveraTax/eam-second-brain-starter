@@ -8,7 +8,7 @@ date: 2025-08-01
 
 # Context Engineering Clearly Explained
 
-Context engineering means giving the model the right information, in the right format, at the right time.
+Give the model the right information, in the right format, at the right time.
 
 ## Key points
 - An agent has parts: model, tools, memory, guardrails, orchestration.
@@ -18,4 +18,7 @@ Context engineering means giving the model the right information, in the right f
 ## My take
 - What would this mean for my work?
 
-Author: `02-people/Tina Huang.md`
+## Links
+- Author: [Tina Huang](../02-people/Tina%20Huang.md)
+- Concept: [Context Engineering](../02-concepts/Context%20Engineering.md)
+- Concept: [Skills](../02-concepts/Skills.md)

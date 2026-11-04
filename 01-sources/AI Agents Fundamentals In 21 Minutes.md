@@ -17,4 +17,7 @@ A 21-minute introduction to what AI agents are and how they're built.
 ## My take
 - What would this mean for my work?
 
-Author: `02-people/Tina Huang.md`
+## Links
+- Author: [Tina Huang](../02-people/Tina%20Huang.md)
+- Concept: [Agent Teams](../02-concepts/Agent%20Teams.md)
+- Concept: [Context Engineering](../02-concepts/Context%20Engineering.md)

@@ -18,4 +18,7 @@ Documentation for Hermes Agent, a self-hosted agent that talks to you through ch
 ## My take
 - What would this mean for my work?
 
-Author: `02-people/Nous Research.md`
+## Links
+- Author: [Nous Research](../02-businesses/Nous%20Research.md)
+- Concept: [Skills](../02-concepts/Skills.md)
+- Concept: [Self-Hosted Agents](../02-concepts/Self-Hosted%20Agents.md)

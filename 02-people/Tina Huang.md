@@ -15,5 +15,8 @@ Turns long AI courses and new tools into short, clear explainers.
 - Good for getting a team to a shared vocabulary fast.
 
 ## Sources
-- [Context Engineering Clearly Explained](https://www.youtube.com/watch?v=jLuwLJBQkIs) · note: `01-sources/Context Engineering Clearly Explained.md`
-- [AI Agents Fundamentals In 21 Minutes](https://www.youtube.com/watch?v=qU3fmidNbJE) · note: `01-sources/AI Agents Fundamentals In 21 Minutes.md`
+- [Watch or read](https://www.youtube.com/watch?v=jLuwLJBQkIs) · note: [Context Engineering Clearly Explained](../01-sources/Context%20Engineering%20Clearly%20Explained.md)
+- [Watch or read](https://www.youtube.com/watch?v=qU3fmidNbJE) · note: [AI Agents Fundamentals In 21 Minutes](../01-sources/AI%20Agents%20Fundamentals%20In%2021%20Minutes.md)
+
+## Concepts
+- [Context Engineering](../02-concepts/Context%20Engineering.md)
