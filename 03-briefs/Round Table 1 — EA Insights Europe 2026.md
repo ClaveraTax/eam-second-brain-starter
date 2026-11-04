@@ -38,13 +38,7 @@ Concepts behind it: [Second Brain](../02-concepts/Second%20Brain.md), [Stages an
 
 ---
 
-## Session notes (fill in as we go)
-
-> No attendee names or companies without their OK. Write down what was said, not who said it.
-
-### Who's in the room
-- Roles:
-- Where people are on the ladder (phase 1–4):
+## Feedback on the questions (fill in as we go)
 
 ### Tools: which tool has earned its place?
 | Tool | Phase | Why it earned its place |
@@ -59,11 +53,3 @@ Concepts behind it: [Second Brain](../02-concepts/Second%20Brain.md), [Stages an
 ### Advice: starting today, and what's stopping you?
 - Advice:
 - Blockers:
-
-### Quotes worth keeping
-- 
-
-### Follow-ups
-- [ ] Share the combined reading list (the room's plus mine)
-- [ ] Turn each new source from the room into a note in `01-sources/`
-- [ ] 

@@ -4,6 +4,9 @@ A second brain made of folders and plain markdown files. You and any AI assistan
 
 From the round table *"Building an EAM second brain"* at EA Insights Europe 2026, Berlin.
 
+> [!IMPORTANT]
+> **This repo is online for 48 hours only, until Friday 6 November 2026 at 14:00 CET.** Download the ZIP today (**Code → Download ZIP**) and keep your own copy.
+
 ## Start in 15 minutes
 
 1. **Copy it.** On GitHub, choose **Code → Download ZIP** and unzip it anywhere you can keep files (OneDrive, SharePoint, a local folder).
