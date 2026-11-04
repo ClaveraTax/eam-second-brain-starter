@@ -1,8 +1,7 @@
-# 01-sources — stage 2: what you learned
+---
+type: router
+---
 
-One note per thing you read, watched or heard: an article, a talk, a standard, a vendor whitepaper, an internal policy.
+# 01-sources
 
-- Use [`_template.md`](_template.md) or [`../skills/capture-a-source.md`](../skills/capture-a-source.md).
-- **Half a page.** Keep the claims and your take. Link to the original rather than storing it.
-- **Name files** by the source's title.
-- Two examples are included, both public videos.
+One short note per video, article or document. Copy `_template.md`, or use `skills/capture-a-source.md`. Link the author's note in `02-people/`.

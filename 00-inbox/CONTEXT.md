@@ -1,7 +1,7 @@
-# 00-inbox — stage 1: capture
+---
+type: router
+---
 
-Drop anything here: pasted text, a voice-memo transcript, a screenshot description, a half-thought. No format required.
+# 00-inbox
 
-- **Temporary.** Empty it in the weekly review. Each item becomes a source note, a person note, a line in a brief, or gets deleted.
-- **Name files** `YYYY-MM-DD what it is.md` so the oldest are easy to spot.
-- **Gate:** nothing leaves the inbox without you deciding where it goes.
+Drop anything here. Empty it in the weekly review: each item becomes a source note, a person note, or gets deleted.

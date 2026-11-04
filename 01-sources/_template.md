@@ -3,20 +3,19 @@ type: source
 title:
 author:
 link:
-captured: YYYY-MM-DD
+date: YYYY-MM-DD
 ---
 
 # <Title>
 
-**In one line:** what this source says, in your words.
+What it says, in one line.
 
-## Key claims
-- Claim one (as the source states it)
-- Claim two
-- Claim three
+## Key points
+- 
+- 
+- 
 
 ## My take
-Do I agree? What's missing? Where does it break in a large enterprise?
+- 
 
-## Use it for
-Which decision, stakeholder or brief this helps with. Link the note, e.g. `02-people/…`.
+Author: `02-people/<Name>.md`
