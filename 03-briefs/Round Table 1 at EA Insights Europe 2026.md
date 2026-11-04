@@ -37,7 +37,7 @@ Building an EAM second brain: practical advice, guidance and tools.
 | 3. You see the connections | Obsidian | Graphify, [Nick Milo](../02-people/Nick%20Milo.md) |
 | 4. Putting it all together | Paperclip | [NetworkChuck](../02-people/NetworkChuck.md) |
 
-The ideas behind it are in [Second Brain](../02-concepts/Second%20Brain.md), [Stages and Stopping Points](../02-concepts/Stages%20and%20Stopping%20Points.md) and [Agent Teams](../02-concepts/Agent%20Teams.md).
+The full tools list is in [Tools I use](Tools%20I%20use.md). The ideas behind it are in [Second Brain](../02-concepts/Second%20Brain.md), [Stages and Stopping Points](../02-concepts/Stages%20and%20Stopping%20Points.md) and [Agent Teams](../02-concepts/Agent%20Teams.md).
 
 ## Feedback on the questions
 

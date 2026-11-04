@@ -13,7 +13,7 @@ This file tells you, and your assistant, where things live. Load only the folder
 | `02-concepts/` | Stage 2. One short note per idea, linked to the others. Start at [Second Brain](02-concepts/Second%20Brain.md). |
 | `02-people/` | Stage 2. People you learn from, and how they think. |
 | `02-businesses/` | Stage 2. Companies, labs and channels you learn from. |
-| `03-briefs/` | Stage 3. What you use: meeting prep, memos, one-pagers. |
+| `03-briefs/` | Stage 3. What you use: meeting prep, memos, one-pagers, and [Tools I use](03-briefs/Tools%20I%20use.md). |
 | `.claude/skills/` | Instructions for jobs you repeat: capture a source, write a person note, weekly review. |
 
 > [!IMPORTANT]

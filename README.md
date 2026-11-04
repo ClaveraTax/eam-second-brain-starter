@@ -52,6 +52,10 @@ Each note starts with a small YAML header, which you can copy from the `_templat
 
 The rest are in `02-people/` and `02-businesses/`.
 
+## Tools I use
+
+My list, with links, is in [Tools I use](03-briefs/Tools%20I%20use.md): folders and markdown, Langdock, Hermes Agent, Telegram, Obsidian, Graphify and Paperclip, plus BMAD Method as an honourable mention.
+
 ## Where the structure comes from
 
 I borrowed the folder-first layout from Jake Van Clief: one well-kept library, one assistant, numbered stages with a human check between them, and router files that tell the assistant where to look. Besides the two videos above, his talk [Your Second Brain Is Not a Notes App](https://www.youtube.com/watch?v=-CUsfao6m7E) covers it. This is my own take on his approach, not something he made or endorsed.
